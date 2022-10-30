@@ -9,4 +9,4 @@ git log 查询完整的版本号以及版本名称和提交者的用户名和用
 git reset --hard 版本号  切换版本
 git checkout 分支名  切换分支
 git branch -v 查询分支
-git branch 分支名 创建分支	
+git branch 分支名 创建分支2222
