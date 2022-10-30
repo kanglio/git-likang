@@ -6,4 +6,7 @@ git add 文件名.文件类型 添加文件到暂存区
 git commit -m"版本名称" 文件名.文件类型   添加文件到本地库
 git reflog 查询提交到本地库的版本号和版本名
 git log 查询完整的版本号以及版本名称和提交者的用户名和用户签名和提交时间
-git reset --hard 版本号  切换版本 
+git reset --hard 版本号  切换版本
+git checkout 分支名  切换分支
+git branch -v 查询分支
+git branch 分支名 创建分支	
