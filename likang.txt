@@ -1,3 +1,4 @@
+git init 初始化本地库
 cat 文件名.文件类型 查询文件
 git rm --cached 删除的文件名
 git status 查询状态
